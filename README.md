@@ -1,1 +1,0 @@
-# yurim_web
